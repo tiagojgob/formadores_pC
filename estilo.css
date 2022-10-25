@@ -1,0 +1,34 @@
+#logotipo{
+    width: 10%;
+    margin-left: 80%;
+    border: 5px dotted rgb(16, 15, 15);
+    float: right;
+    position: absolute;
+}
+
+body {
+    background-color:#5C5C5C;
+}
+
+.texto-principal {
+    margin-right: 20%; 
+}
+
+h1 {
+    color: #D3D3D3;
+    text-align: center;
+}
+h2 {
+    color: #483D8B;
+}
+p {
+    color:  #5F9EA0;
+
+}
+#imagem-principal {
+    width: 10%;
+    margin-left: 80%;
+    border: 5px dotted salmon;
+    float: right;
+    position: absolute;
+}
